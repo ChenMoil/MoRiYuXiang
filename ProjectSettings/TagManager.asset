@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - playerhide
+  - caught
+  - deng
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ground
+  - Water
+  - UI
+  - yanti
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2031091631
+    locked: 0
+  - name: ground
+    uniqueID: 735993995
+    locked: 0
+  - name: player
+    uniqueID: 2560458001
+    locked: 0
+  - name: things
+    uniqueID: 3903681391
+    locked: 0
+  - name: yanti
+    uniqueID: 11594587
+    locked: 0
+  - name: enemy
+    uniqueID: 1816868507
+    locked: 0
